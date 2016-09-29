@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 1
 
 
    1              		.cpu cortex-m0
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
   55 0017 00       		.byte	0
   56 0018 E8       		.byte	-24
   57 0019 03       		.byte	3
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 2
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 2
 
 
   58 001a 00       		.byte	0
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  106 00ae 0000     		.space	2
  107 00b0 00000000 		.word	0
  108 00b4 0300     		.short	3
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 3
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 3
 
 
  109 00b6 002A     		.short	10752
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  163 013c 00000000 		.word	0
  164 0140 0A00     		.short	10
  165 0142 052A     		.short	10757
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 4
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 4
 
 
  166 0144 01220000 		.word	8705
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  220 01cc 1100     		.short	17
  221 01ce 292A     		.short	10793
  222 01d0 01020000 		.word	513
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 5
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 5
 
 
  223 01d4 1100     		.short	17
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  277 025a 0328     		.short	10243
  278 025c 01020000 		.word	513
  279 0260 1900     		.short	25
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 6
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 6
 
 
  280 0262 0000     		.space	2
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  334 02e8 01020000 		.word	513
  335 02ec 1F00     		.short	31
  336 02ee 0000     		.space	2
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 7
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 7
 
 
  337 02f0 0100     		.short	1
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
   23:.\Generated_Source\PSoC4/BLE_1_gatt.c **** CYBLE_STATE_T cyBle_state;
   24:.\Generated_Source\PSoC4/BLE_1_gatt.c **** 
   25:.\Generated_Source\PSoC4/BLE_1_gatt.c **** 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 8
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 8
 
 
   26:.\Generated_Source\PSoC4/BLE_1_gatt.c **** #if(CYBLE_GATT_ROLE_SERVER)
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
   80:.\Generated_Source\PSoC4/BLE_1_gatt.c **** 
   81:.\Generated_Source\PSoC4/BLE_1_gatt.c **** #if defined(__GNUC__) || defined(__ARMCC_VERSION)
   82:.\Generated_Source\PSoC4/BLE_1_gatt.c **** const uint8 cyBle_attValuesCCCDFlashMemory[CYBLE_GAP_MAX_BONDED_DEVICE + 1u][CYBLE_GATT_DB_CCCD_COU
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 9
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 9
 
 
   83:.\Generated_Source\PSoC4/BLE_1_gatt.c **** #elif defined(__ICCARM__)
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  137:.\Generated_Source\PSoC4/BLE_1_gatt.c **** { 0x0015u, 0x2A25u /* Serial Number String                */, 0x00000201u /* rd     */, 0x0015u, {{
  138:.\Generated_Source\PSoC4/BLE_1_gatt.c **** { 0x0016u, 0x2803u /* Characteristic                      */, 0x00000201u /* rd     */, 0x0017u, {{
  139:.\Generated_Source\PSoC4/BLE_1_gatt.c **** { 0x0017u, 0x2A27u /* Hardware Revision String            */, 0x00000201u /* rd     */, 0x0017u, {{
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 10
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 10
 
 
  140:.\Generated_Source\PSoC4/BLE_1_gatt.c **** { 0x0018u, 0x2803u /* Characteristic                      */, 0x00000201u /* rd     */, 0x0019u, {{
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  373              		.cfi_def_cfa_offset 24
  374 0004 00AF     		add	r7, sp, #0
  375              		.cfi_def_cfa_register 7
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 11
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 11
 
 
  186:.\Generated_Source\PSoC4/BLE_1_gatt.c ****     CYBLE_API_RESULT_T apiResult;
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  417              		.global	CyBle_GattsWriteEventHandler
  418              		.code	16
  419              		.thumb_func
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 12
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 12
 
 
  420              		.type	CyBle_GattsWriteEventHandler, %function
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  447 001a 7B68     		ldr	r3, [r7, #4]
  448 001c 1A1D     		add	r2, r3, #4
  449 001e 7B68     		ldr	r3, [r7, #4]
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 13
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 13
 
 
  450 0020 3C1C     		mov	r4, r7
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  493 0070 FF31     		add	r1, r1, #255
  494 0072 7A68     		ldr	r2, [r7, #4]
  495 0074 081C     		mov	r0, r1
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 14
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 14
 
 
  496 0076 111C     		mov	r1, r2
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  544 000b 01       		.uleb128 0x1
  545 000c AC1A0000 		.4byte	.LASF384
  546 0010 01       		.byte	0x1
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 15
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 15
 
 
  547 0011 7E090000 		.4byte	.LASF385
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  601 007d 3A000000 		.4byte	0x3a
  602 0081 04       		.uleb128 0x4
  603 0082 3E020000 		.4byte	.LASF11
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 16
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 16
 
 
  604 0086 02       		.byte	0x2
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  658 00ec 22       		.sleb128 34
  659 00ed 08       		.uleb128 0x8
  660 00ee 971C0000 		.4byte	.LASF25
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 17
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 17
 
 
  661 00f2 23       		.sleb128 35
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  715 0166 C800     		.sleb128 72
  716 0168 08       		.uleb128 0x8
  717 0169 EF1C0000 		.4byte	.LASF44
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 18
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 18
 
 
  718 016d C900     		.sleb128 73
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  772 01eb F500     		.sleb128 117
  773 01ed 08       		.uleb128 0x8
  774 01ee F40B0000 		.4byte	.LASF63
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 19
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 19
 
 
  775 01f2 F600     		.sleb128 118
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  829 0263 09       		.sleb128 9
  830 0264 08       		.uleb128 0x8
  831 0265 022D0000 		.4byte	.LASF80
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 20
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 20
 
 
  832 0269 0A       		.sleb128 10
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  886 02da 8402     		.sleb128 260
  887 02dc 08       		.uleb128 0x8
  888 02dd 34090000 		.4byte	.LASF99
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 21
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 21
 
 
  889 02e1 8502     		.sleb128 261
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  943 034d 08       		.uleb128 0x8
  944 034e A4170000 		.4byte	.LASF114
  945 0352 0C       		.sleb128 12
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 22
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 22
 
 
  946 0353 08       		.uleb128 0x8
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1000 03ca 5201     		.2byte	0x152
  1001 03cc 76000000 		.4byte	0x76
  1002 03d0 0C       		.uleb128 0xc
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 23
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 23
 
 
  1003 03d1 02       		.byte	0x2
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1057 0440 8B01     		.2byte	0x18b
  1058 0442 61040000 		.4byte	0x461
  1059 0446 0D       		.uleb128 0xd
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 24
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 24
 
 
  1060 0447 05210000 		.4byte	.LASF137
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1114 04b3 C0       		.byte	0xc0
  1115 04b4 AD000000 		.4byte	0xad
  1116 04b8 04       		.byte	0x4
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 25
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 25
 
 
  1117 04b9 00       		.byte	0
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1171 0522 76000000 		.4byte	0x76
  1172 0526 08       		.byte	0x8
  1173 0527 10       		.uleb128 0x10
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 26
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 26
 
 
  1174 0528 4B210000 		.4byte	.LASF153
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1228 0595 61050000 		.4byte	0x561
  1229 0599 07       		.uleb128 0x7
  1230 059a 01       		.byte	0x1
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 27
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 27
 
 
  1231 059b 09       		.byte	0x9
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1285 0609 08       		.uleb128 0x8
  1286 060a 2C280000 		.4byte	.LASF175
  1287 060e 8502     		.sleb128 261
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 28
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 28
 
 
  1288 0610 08       		.uleb128 0x8
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1342 068e 08       		.uleb128 0x8
  1343 068f 81030000 		.4byte	.LASF194
  1344 0693 9802     		.sleb128 280
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 29
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 29
 
 
  1345 0695 08       		.uleb128 0x8
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1399 0713 08       		.uleb128 0x8
  1400 0714 7D280000 		.4byte	.LASF213
  1401 0718 AB02     		.sleb128 299
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 30
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 30
 
 
  1402 071a 08       		.uleb128 0x8
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1456 0798 08       		.uleb128 0x8
  1457 0799 0B210000 		.4byte	.LASF232
  1458 079d BE02     		.sleb128 318
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 31
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 31
 
 
  1459 079f 08       		.uleb128 0x8
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1513 081d 08       		.uleb128 0x8
  1514 081e C30F0000 		.4byte	.LASF251
  1515 0822 D102     		.sleb128 337
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 32
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 32
 
 
  1516 0824 08       		.uleb128 0x8
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1570 08a2 08       		.uleb128 0x8
  1571 08a3 802D0000 		.4byte	.LASF270
  1572 08a7 E402     		.sleb128 356
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 33
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 33
 
 
  1573 08a9 08       		.uleb128 0x8
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1627 0927 08       		.uleb128 0x8
  1628 0928 F4230000 		.4byte	.LASF289
  1629 092c F702     		.sleb128 375
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 34
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 34
 
 
  1630 092e 08       		.uleb128 0x8
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1684 09ac 08       		.uleb128 0x8
  1685 09ad 5E1F0000 		.4byte	.LASF308
  1686 09b1 8A03     		.sleb128 394
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 35
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 35
 
 
  1687 09b3 08       		.uleb128 0x8
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1741 0a31 08       		.uleb128 0x8
  1742 0a32 1C2D0000 		.4byte	.LASF327
  1743 0a36 9D03     		.sleb128 413
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 36
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 36
 
 
  1744 0a38 08       		.uleb128 0x8
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1798 0ab6 08       		.uleb128 0x8
  1799 0ab7 3C0C0000 		.4byte	.LASF346
  1800 0abb B003     		.sleb128 432
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 37
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 37
 
 
  1801 0abd 08       		.uleb128 0x8
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1855 0b3b 08       		.uleb128 0x8
  1856 0b3c A31D0000 		.4byte	.LASF365
  1857 0b40 80C003   		.sleb128 57344
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 38
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 38
 
 
  1858 0b43 00       		.byte	0
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1912 0bb4 9C       		.byte	0x9c
  1913 0bb5 D60B0000 		.4byte	0xbd6
  1914 0bb9 17       		.uleb128 0x17
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 39
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 39
 
 
  1915 0bba 91010000 		.4byte	.LASF387
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  1969 0c2b 18       		.uleb128 0x18
  1970 0c2c 34050000 		.4byte	0x534
  1971 0c30 3B0C0000 		.4byte	0xc3b
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 40
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 40
 
 
  1972 0c34 19       		.uleb128 0x19
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2026 0ca9 05       		.uleb128 0x5
  2027 0caa 03       		.byte	0x3
  2028 0cab 00000000 		.4byte	cyBle_state
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 41
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 41
 
 
  2029 0caf 00       		.byte	0
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2083 0033 13       		.uleb128 0x13
  2084 0034 00       		.byte	0
  2085 0035 00       		.byte	0
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 42
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 42
 
 
  2086 0036 05       		.uleb128 0x5
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2140 006c 3A       		.uleb128 0x3a
  2141 006d 0B       		.uleb128 0xb
  2142 006e 3B       		.uleb128 0x3b
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 43
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 43
 
 
  2143 006f 05       		.uleb128 0x5
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2197 00a5 0B       		.uleb128 0xb
  2198 00a6 00       		.byte	0
  2199 00a7 00       		.byte	0
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 44
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 44
 
 
  2200 00a8 0F       		.uleb128 0xf
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2254 00de 13       		.uleb128 0x13
  2255 00df 15       		.uleb128 0x15
  2256 00e0 01       		.byte	0x1
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 45
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 45
 
 
  2257 00e1 27       		.uleb128 0x27
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2311 0118 00       		.byte	0
  2312 0119 17       		.uleb128 0x17
  2313 011a 05       		.uleb128 0x5
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 46
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 46
 
 
  2314 011b 00       		.byte	0
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2368 0151 0B       		.uleb128 0xb
  2369 0152 3B       		.uleb128 0x3b
  2370 0153 0B       		.uleb128 0xb
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 47
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 47
 
 
  2371 0154 49       		.uleb128 0x49
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2415      545F4854 
  2415      53535F4E 
  2415      4F544946 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 48
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 48
 
 
  2416              	.LASF169:
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2435      455F4556 
  2435      545F4347 
  2435      4D53435F 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 49
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 49
 
 
  2435      57524954 
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2455      4353435F 
  2455      57524954 
  2456              	.LASF307:
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 50
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 50
 
 
  2457 0291 4359424C 		.ascii	"CYBLE_EVT_LNSS_INDICATION_DISABLED\000"
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2475 03c6 4359424C 		.ascii	"CYBLE_GATT_ERR_INSUFFICIENT_RESOURCE\000"
  2475      455F4741 
  2475      54545F45 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 51
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 51
 
 
  2475      52525F49 
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2494              	.LASF312:
  2495 0509 4359424C 		.ascii	"CYBLE_EVT_LNSC_INDICATION\000"
  2495      455F4556 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 52
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 52
 
 
  2495      545F4C4E 
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2513      545F4741 
  2513      5454435F 
  2513      43484152 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 53
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 53
 
 
  2514              	.LASF134:
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2534 0735 4359424C 		.ascii	"CYBLE_EVT_CPSS_INDICATION_DISABLED\000"
  2534      455F4556 
  2534      545F4350 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 54
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 54
 
 
  2534      53535F49 
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2553              	.LASF17:
  2554 0877 4359424C 		.ascii	"CYBLE_EVT_STACK_ON\000"
  2554      455F4556 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 55
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 55
 
 
  2554      545F5354 
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2574 097e 2E5C4765 		.ascii	".\\Generated_Source\\PSoC4\\BLE_1_gatt.c\000"
  2574      6E657261 
  2574      7465645F 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 56
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 56
 
 
  2574      536F7572 
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2594 0a99 4359424C 		.ascii	"CYBLE_EVT_GATTC_READ_BY_GROUP_TYPE_RSP\000"
  2594      455F4556 
  2594      545F4741 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 57
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 57
 
 
  2594      5454435F 
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2614 0bb4 4359424C 		.ascii	"CYBLE_EVT_GATTC_INDICATION\000"
  2614      455F4556 
  2614      545F4741 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 58
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 58
 
 
  2614      5454435F 
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2634 0ce0 4359424C 		.ascii	"CYBLE_GATT_ERR_UNLIKELY_ERROR\000"
  2634      455F4741 
  2634      54545F45 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 59
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 59
 
 
  2634      52525F55 
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2653      545F4354 
  2653      53435F57 
  2653      52495445 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 60
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 60
 
 
  2654              	.LASF354:
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2672              	.LASF71:
  2673 0f37 4359424C 		.ascii	"CYBLE_ERROR_INVALID_PARAMETER\000"
  2673      455F4552 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 61
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 61
 
 
  2673      524F525F 
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2691      524F525F 
  2691      4D454D4F 
  2691      52595F41 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 62
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 62
 
 
  2692              	.LASF288:
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2711 11ac 4359424C 		.ascii	"CYBLE_EVT_UDSS_NOTIFICATION_DISABLED\000"
  2711      455F4556 
  2711      545F5544 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 63
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 63
 
 
  2711      53535F4E 
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2729      52525F43 
  2729      4343445F 
  2730              	.LASF74:
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 64
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 64
 
 
  2731 12f3 4359424C 		.ascii	"CYBLE_ERROR_INSUFFICIENT_RESOURCES\000"
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2749 141d 4359424C 		.ascii	"CYBLE_EVT_HTSS_CHAR_WRITE\000"
  2749      455F4556 
  2749      545F4854 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 65
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 65
 
 
  2749      53535F43 
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2767      57524954 
  2768              	.LASF62:
  2769 1547 4359424C 		.ascii	"CYBLE_EVT_L2CAP_CBFC_DISCONN_IND\000"
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 66
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 66
 
 
  2769      455F4556 
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2787      7400
  2788              	.LASF350:
  2789 1657 4359424C 		.ascii	"CYBLE_EVT_TPSC_READ_CHAR_RESPONSE\000"
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 67
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 67
 
 
  2789      455F4556 
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2807      43455F41 
  2808              	.LASF68:
  2809 1786 4359424C 		.ascii	"CYBLE_EVT_PENDING_FLASH_WRITE\000"
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 68
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 68
 
 
  2809      455F4556 
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2828              	.LASF344:
  2829 18bd 4359424C 		.ascii	"CYBLE_EVT_SCPSC_NOTIFICATION\000"
  2829      455F4556 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 69
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 69
 
 
  2829      545F5343 
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2849      455F4556 
  2849      545F4741 
  2849      5454535F 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 70
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 70
 
 
  2849      50524550 
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2867      455F4741 
  2867      5454535F 
  2867      4552525F 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 71
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 71
 
 
  2867      50524F43 
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2886              	.LASF362:
  2887 1c74 4359424C 		.ascii	"CYBLE_EVT_UDSC_WRITE_CHAR_RESPONSE\000"
  2887      455F4556 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 72
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 72
 
 
  2887      545F5544 
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2905      545F4854 
  2905      53435F52 
  2905      4541445F 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 73
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 73
 
 
  2906              	.LASF365:
@@ -4378,7 +4378,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2924              	.LASF318:
  2925 1ebf 4359424C 		.ascii	"CYBLE_EVT_NDCSC_READ_CHAR_RESPONSE\000"
  2925      455F4556 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 74
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 74
 
 
  2925      545F4E44 
@@ -4438,7 +4438,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2943      545F474C 
  2943      53535F49 
  2943      4E444943 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 75
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 75
 
 
  2944              	.LASF174:
@@ -4498,7 +4498,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2963      54545F45 
  2963      52525F4E 
  2963      4F4E4500 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 76
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 76
 
 
  2964              	.LASF137:
@@ -4558,7 +4558,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  2983      54535F4F 
  2984              	.LASF157:
  2985 21f8 73657276 		.ascii	"serviceChangedHandle\000"
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 77
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 77
 
 
  2985      69636543 
@@ -4618,7 +4618,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  3003      5454435F 
  3003      52454144 
  3004              	.LASF320:
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 78
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 78
 
 
  3005 2328 4359424C 		.ascii	"CYBLE_EVT_PASSS_NOTIFICATION_DISABLED\000"
@@ -4678,7 +4678,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  3023      57524954 
  3024              	.LASF370:
  3025 244c 4359424C 		.ascii	"CYBLE_STATE_DISCONNECTED\000"
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 79
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 79
 
 
  3025      455F5354 
@@ -4738,7 +4738,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  3044              	.LASF2:
  3045 2565 73686F72 		.ascii	"short int\000"
  3045      7420696E 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 80
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 80
 
 
  3045      7400
@@ -4798,7 +4798,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  3066 266d 4359424C 		.ascii	"CYBLE_EVT_GLSS_INDICATION_ENABLED\000"
  3066      455F4556 
  3066      545F474C 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 81
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 81
 
 
  3066      53535F49 
@@ -4858,7 +4858,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  3084      53435F52 
  3084      4541445F 
  3085              	.LASF265:
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 82
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 82
 
 
  3086 27a8 4359424C 		.ascii	"CYBLE_EVT_GLSC_NOTIFICATION\000"
@@ -4918,7 +4918,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  3104 28b5 4359424C 		.ascii	"CYBLE_EVT_GATTC_DISCOVERY_COMPLETE\000"
  3104      455F4556 
  3104      545F4741 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 83
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 83
 
 
  3104      5454435F 
@@ -4978,7 +4978,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  3122      505F4B45 
  3122      59494E46 
  3123              	.LASF57:
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 84
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 84
 
 
  3124 29fb 4359424C 		.ascii	"CYBLE_EVT_L2CAP_CONN_PARAM_UPDATE_REQ\000"
@@ -5038,7 +5038,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  3142      434F4E4E 
  3142      45435445 
  3143              	.LASF135:
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 85
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 85
 
 
  3144 2b20 61637475 		.ascii	"actualLen\000"
@@ -5098,7 +5098,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  3164      455F4556 
  3164      545F4C32 
  3164      4341505F 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 86
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 86
 
 
  3164      43424643 
@@ -5158,7 +5158,7 @@ ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 1
  3184      455F4556 
  3184      545F414E 
  3184      53535F4E 
-ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccdf3GXv.s 			page 87
+ARM GAS  C:\Users\Chris\AppData\Local\Temp\ccMaSHXU.s 			page 87
 
 
  3184      4F544946 
